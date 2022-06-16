@@ -1,0 +1,176 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.12,
+* Autoprefixer: v10.4.4
+* Browsers: last 4 version
+*/
+
+.product-container {
+  width: 1062px;
+}
+
+.about-product {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.product-content {
+  margin-left: 121px;
+}
+.product-content-header {
+  margin-bottom: 10px;
+  font-size: 32px;
+  margin: 0;
+  line-height: 40px;
+}
+.product-content p {
+  opacity: 0.6;
+  line-height: 26px;
+  margin: 0;
+  font-size: 16px;
+}
+
+.product-content p:nth-child(3) {
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+
+.about-product {
+  margin-top: 83px;
+}
+.product-mini {
+  margin: 0;
+  height: 59px;
+  padding: 5px 15px;
+  border: 1px solid #d9d9d9;
+  border-radius: 6px;
+}
+.product-mini:active {
+  border: 1.5px solid #5bbc58;
+}
+
+.front {
+  margin: 0;
+  margin-left: 65px;
+}
+.back {
+  margin-left: 10px;
+}
+
+.left {
+  margin-left: 10px;
+}
+.product-content li {
+  font-weight: bold;
+  line-height: 28px;
+}
+.product-content li::before {
+  content: url("./../img/list.svg");
+  margin-right: 12px;
+}
+.product-btn {
+  margin-top: 40px;
+}
+
+.batafsil-btn {
+  padding: 12px 30px;
+  border: 1px solid black;
+  margin-right: 14px;
+}
+
+.about-pluses {
+  margin-top: 125px;
+}
+.pluses-header-content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 0;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-size: 40px;
+  line-height: 56px;
+  margin-bottom: 46.02px;
+}
+
+.pluses {
+  margin: 0;
+  padding: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.pluses p {
+  margin: 0;
+}
+
+.pluses img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+}
+
+.pluses-header-text {
+  text-align: center;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.pluses-content {
+  font-weight: 400;
+  padding: 4px 25px 0px 25px;
+  opacity: 0.4;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.product-stucture-header {
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 56px;
+}
+
+.product-stucure-img {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.product-stucure-img p,
+h3 {
+  margin: 0;
+  padding: 0;
+}
+.basic-subtance,
+.additive {
+  margin-top: 63px;
+}
+
+.additive {
+  margin-left: 40px;
+  margin-right: 88px;
+}
+
+.subtance {
+  text-align: center;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.product-stucure-img h3 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 36px;
+}
